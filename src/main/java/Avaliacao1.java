@@ -1,5 +1,5 @@
 
-import static utfpr.ct.dainf.if62c.avaliacao.Complexo.sqrt;
+import utfpr.ct.dainf.if62c.avaliacao.Complexo;
 
 /**
  * UTFPR - Universidade Tecnológica Federal do Paraná
@@ -12,7 +12,8 @@ import static utfpr.ct.dainf.if62c.avaliacao.Complexo.sqrt;
 public class Avaliacao1 {
 
     public static void main(String[] args) {
-        
+        Complexo c = new Complexo(2,3);
+        System.out.println(c);
     }
     
     // implementar raizesEquacao(Complexo, Complexo, Complexo)
