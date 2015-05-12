@@ -1,3 +1,6 @@
+
+import static utfpr.ct.dainf.if62c.avaliacao.Complexo.sqrt;
+
 /**
  * UTFPR - Universidade Tecnológica Federal do Paraná
  * DAINF - Departamento Acadêmico de Informática
@@ -9,7 +12,7 @@
 public class Avaliacao1 {
 
     public static void main(String[] args) {
-        // implementar main
+        
     }
     
     // implementar raizesEquacao(Complexo, Complexo, Complexo)
